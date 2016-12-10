@@ -1,0 +1,3 @@
+This skill does not collect any personally-identifying information, and it stores no data on its server that is not needed for the immediate functionality of the service.
+
+This skill is an interface to WordPress.com. WordPress.com's privacy policy can be found at https://automattic.com/privacy/
