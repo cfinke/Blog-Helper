@@ -1,0 +1,36 @@
+GetNotifications for my notifications
+GetNotifications if I have any notifications
+GetNotifications what are my notifications
+GetNotifications tell me my notifications
+GetNotifications notifications
+GetNotifications check my notifications
+
+NewPost to create a new post titled {Title}
+NewPost to start a new post with the title {Title}
+NewPost to create a post called {Title}
+NewPost to start a draft titled {Title}
+NewPost save a draft called {Title}
+NewPost new post called {Title}
+NewPost draft called {Title}
+NewPost start a new post titled {Title}
+NewPost save a draft post called {Title}
+
+NewComments if I have any comments
+NewComments for my new comments
+NewComments do i have any new comments
+NewComments for the latest comments
+NewComments comments
+NewComments moderate comments
+NewComments do I have any comments to moderate
+
+ApproveComment approve it
+ApproveComment approve
+
+TrashComment delete
+TrashComment delete it
+TrashComment send it to trash
+TrashComment put it in the trash
+
+SpamComment spam
+SpamComment mark as spam
+SpamComment mark it as spam

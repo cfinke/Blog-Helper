@@ -1,0 +1,40 @@
+{
+  "intents":[
+    {
+      "intent": "GetNotifications"
+    },
+    {
+	    "intent": "AMAZON.YesIntent"
+	},
+	{
+	    "intent": "AMAZON.NoIntent"
+	},
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      	"intent": "NewPost",
+      	"slots": [
+          {
+            "name": "Title",
+            "type": "POST_TITLE"
+          }
+        ]
+    },
+    {
+      "intent": "NewComments"
+    },
+    {
+      "intent": "ApproveComment"
+    },
+    {
+      "intent": "TrashComment"
+    },
+    {
+      "intent": "SpamComment"
+    }
+  ]
+}
