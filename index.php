@@ -197,7 +197,7 @@ function handleIntent( &$request, &$response, $intent ) {
 	$session_id = $request->data['session']['sessionId'];
 	$state = get_state( $session_id );
 
-	if ( ! $request->sesssion->new ) {
+	if ( ! $request->session->new ) {
 		// These intents have no standalone processing of their own; they are just
 		// confirmations for other intents.
 		switch ( $intent ) {
